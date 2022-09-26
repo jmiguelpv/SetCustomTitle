@@ -1,5 +1,3 @@
-console.log("firastr");
-var title = "";
 var setOfTitles = {
     "Design Element for UCSF-5134 Batch Stream LOS - Job Ran Too Long (Relative Run) - EnergyWater Product Development - ALM Confluence": "TJ RTL Design Page",
     "Getting started - Chrome Developers": "it worked",
